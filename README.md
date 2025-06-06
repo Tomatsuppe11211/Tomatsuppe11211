@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Marcos and i study front-end-development. My focus is on improving my coding abilities, but also have some fun doing so in the progress. 
+Not all my work is published as i ams till trying things out, but the ones i believe is worth watching, will be published
+
+On the side i am working in a school and i have a passion for gaming and pokemon
+
 <!--
 **Tomatsuppe11211/Tomatsuppe11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
